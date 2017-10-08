@@ -1,0 +1,9 @@
+1
+size 10
+add 13 Ala
+add 23 ola
+add 14 ela
+add 17 ila
+delete 23
+print
+stop
